@@ -1,0 +1,59 @@
+body {
+  padding: 20px 10px;
+  font-family: Helvetica;
+  max-width:200px;
+  margin: 0 auto;
+  font-size:1.4em;
+}
+
+h1 {
+  text-align: center;
+  color: #005c1f;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li { 
+  font-size: 20PX;
+  line-height: 44px;
+}
+
+.lesson {
+  background-color: #33AD5C;
+  border-radius: 20px;
+  color: #001f0a;
+  padding: 10px;
+  margin: 10px auto;
+}
+
+h2 {
+  margin: 10px;
+}
+.concept {
+  background-color: #B2E0C2;
+  padding: 4px;
+  margin: 10px;
+  border-radius: 4px;
+  color: black;
+}
+
+.concept-title {
+  font-size: 28px;
+   margin: 8px;
+  text-align: Center;
+  color: #000F05;
+}
+
+.concept-description {
+  font-weight: lighter;
+  margin: 6px;
+}
+
+.code {
+  font-family: Courier;
+  color: black;
+  font-weight: bold;
+  padding-left: 4px;
+}
